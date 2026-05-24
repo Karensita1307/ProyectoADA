@@ -151,7 +151,7 @@ class ListaEnlazada:
         return datos
 
     # devuelve el tamaño actual de la lista
-    def tamano(self):
+    def tamano(self): # disclaimer: no puedo usar la ñ, lol que mal
 
         # retorna la cantidad de nodos guardados
         return self._size
