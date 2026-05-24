@@ -39,6 +39,9 @@ El programa soporta las operaciones principales sugeridas para el problema 2:
 ```text
 proyecto final/
 │
+├── docs/
+│   └── informe.pdf
+│
 ├── entrada/
 │   └── entrada.txt
 │
@@ -57,6 +60,7 @@ proyecto final/
 
 ### Descripción breve de los archivos
 
+- `docs/informe.pdf`: documento técnico final del proyecto.
 - `main.py`: archivo principal. Ubica `entrada.txt`, llama el procesamiento y genera `salida.txt`.
 - `formateo.py`: lee la entrada, procesa las operaciones y da formato a las salidas.
 - `matriz_dispersa.py`: implementa la lógica de la matriz dispersa.
